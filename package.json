@@ -1,0 +1,27 @@
+{
+  "name": "environment-brunch",
+  "version": "1.0.0",
+  "description": "Replaces a defined token with the current brunch environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbate/environment-brunch.git"
+  },
+  "keywords": [
+    "brunch",
+    "environment",
+    "replace"
+  ],
+  "author": "Colin Bate <colin@colinbate.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinbate/environment-brunch/issues"
+  },
+  "homepage": "https://github.com/colinbate/environment-brunch#readme",
+  "peerDependencies": {
+    "brunch": "^2.0.0"
+  }
+}
