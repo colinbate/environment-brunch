@@ -1,3 +1,7 @@
+> ## 🚧 This Plugin Is Deprecated 🚧
+
+> This project is deprecated in favor of `process.env.NODE_ENV`. 
+
 # environment-brunch
 
 Replaces a defined token with the current environment in your js/ts files in Brunch.
